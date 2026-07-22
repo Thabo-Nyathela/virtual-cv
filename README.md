@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Thabo Nyathela | Virtual CV Portfolio
 
 A professional one-page virtual CV and portfolio website for Thabo Nyathela, built with HTML5, CSS3, and vanilla JavaScript for direct deployment to GitHub Pages.
@@ -68,3 +69,6 @@ virtual-cv-portfolio/
 This project was created for an academic portfolio assignment and can be adapted for personal use. Please replace placeholder links and documents with your final approved content before submission.
 
 License: MIT
+=======
+# virtual-cv
+>>>>>>> e2a81c524042d25cae94e20b38e7d82490a37df1

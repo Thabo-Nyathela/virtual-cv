@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Profile illustration placeholder">
+  <rect width="600" height="600" fill="#e2e8f0" />
+  <circle cx="300" cy="220" r="120" fill="#94a3b8" />
+  <rect x="120" y="340" width="360" height="220" rx="25" fill="#64748b" />
+  <rect x="150" y="380" width="300" height="18" rx="9" fill="#cbd5e1" />
+  <rect x="150" y="420" width="260" height="18" rx="9" fill="#cbd5e1" />
+  <rect x="150" y="460" width="220" height="18" rx="9" fill="#cbd5e1" />
+</svg>
